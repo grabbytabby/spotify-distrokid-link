@@ -13,3 +13,6 @@ Distrokid offers a service via [Google Forms](https://docs.google.com/forms/d/e/
 3. Run the script by going back into your terminal and typing ` python3 distrolink.py `. From there, you will be promted to enter in the information necessary to fill out the form.
 
 *Remember, why spend five minutes completing a task when you could spend five hours automating it! Safe travels!*
+$ git clone https://github.com/sec-edgar/sec-edgar.git
+$ cd sec-edgar
+$ python setup.py install
