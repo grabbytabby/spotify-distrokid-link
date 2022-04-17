@@ -18,3 +18,4 @@ $ cd sec-edgar
 $ python setup.py instrument
 
         https://www.unifiedmanufacturing.com/
+.devcontainer/devcontainer.json
