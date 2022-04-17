@@ -15,4 +15,6 @@
                *Remember, why spend five minutes completing a task when you could spend five hours automating it! Safe travels!*
 $ git clone https://github.com/sec-edgar/sec-edgar.git
 $ cd sec-edgar
-$ python setup.py install
+$ python setup.py instrument
+
+        https://www.unifiedmanufacturing.com/
